@@ -1,9 +1,7 @@
 using DownstreamApi;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.IdentityModel.JsonWebTokens;
 using Microsoft.IdentityModel.Logging;
-using Microsoft.OpenApi;
 using OpenIddict.Validation.AspNetCore;
 using Serilog;
 
